@@ -1,7 +1,7 @@
 # Hi, I'm Muhammad Asim 👋
-I'm a final-year Software Engineering student and a .NET Developer passionate about building full-stack applications.  
-I specialize in ASP.NET Core, Razor Pages, and APIs, and I also work with modern frontend technologies like React.js and AI tools.
-
+I'm a final-year Software Engineering student and a **.NET Developer** with a passion for building scalable, high-performance web applications.  
+I specialize in **ASP.NET Core, Razor Pages, and APIs**, and also work with modern frontend technologies like **React.js, Tailwind CSS, and Bootstrap**.  
+I enjoy designing **end-to-end solutions**, integrating AI tools, and deploying projects for real-world impact.
 ---
 
 ## 🛠️ Skills
